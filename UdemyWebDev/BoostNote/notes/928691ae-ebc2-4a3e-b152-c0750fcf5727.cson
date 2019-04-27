@@ -1,0 +1,21 @@
+createdAt: "2019-04-27T05:34:53.859Z"
+updatedAt: "2019-04-27T05:35:59.551Z"
+type: "SNIPPET_NOTE"
+folder: "f44aef36aca0e827c784"
+title: "margins/padding/etc..."
+tags: []
+description: "margins/padding/etc..."
+snippets: [
+  {
+    linesHighlighted: []
+    name: "margins and padding"
+    content: '''
+      margin before = top
+      margin after = bottom
+      margin start = left
+      margin end = right
+    '''
+  }
+]
+isStarred: false
+isTrashed: false

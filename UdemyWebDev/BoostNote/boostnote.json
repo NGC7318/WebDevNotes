@@ -1,4 +1,15 @@
 {
-  "folders": [],
+  "folders": [
+    {
+      "key": "c05f8ef295f4d6984977",
+      "color": "#E8D252",
+      "name": "links"
+    },
+    {
+      "key": "f44aef36aca0e827c784",
+      "color": "#30D5C8",
+      "name": "css"
+    }
+  ],
   "version": "1.0"
 }
